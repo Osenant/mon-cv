@@ -2,11 +2,14 @@
     "basics": {
       "name": "Olivier Senant",
       "label": "Développeur full stack en devenir",
-      "image": "",
       "email": "o.senant@gmail.com",
       "phone": "06 26 48 44 51",
       "url": "oliviersenant.fr",
-      "summary": "Professionnel polycompétent avec une expérience enrichissante dans la création et la gestion d'entreprises. Fort de mes compétences en logique et en intuition, je suis actuellement en reconversion vers le domaine de l'informatique. Motivé par un désir d'apprendre et de m'adapter, je recherche une formation en développement, suivie d'opportunités de stage ou d'emploi, afin d'acquérir les compétences nécessaires pour exceller dans ce secteur dynamique.",
+      "summary": [
+        "Professionnel polycompétent avec une expérience enrichissante dans la création et la gestion d'entreprises.",
+        "Fort de mes compétences en logique et en intuition, je suis actuellement en reconversion vers le domaine de l'informatique.",
+        "Motivé par un désir d'apprendre et de m'adapter, je recherche une formation en développement, suivie d'opportunités de stage ou d'emploi, afin d'acquérir les compétences nécessaires pour exceller dans ce secteur dynamique."
+      ],
       "location": {
         "address": "4 route de Fourquevaux",
         "postalCode": "31450",
@@ -26,7 +29,6 @@
       "url": "https://www.facebook.com/fermaquatic/?locale=fr_FR",
       "startDate": "2019-12-20",
       "endDate": "2024-12-30",
-      "summary": "",
       "highlights": [
         "Réaliser un business plan, une analyse du marché, une stratégie marketing, un plan de communication.",
         "Lever des fonds (emprunts bancaires, subventions, crowdfunding).",
@@ -40,7 +42,6 @@
         "url": "https://www.humansconnexion.com/",
         "startDate": "2011-09-07",
         "endDate": "2014-12-30",
-        "summary": "",
         "highlights": [
           "Gérer un projet (retroplanning, relation client, livrable)",
           "Former des équipes à l’utilisation d’outils digitaux",
@@ -53,11 +54,7 @@
       "position": "Cofondateur et membre du CA",
       "url": "https://www.association-toulousaine-aquaponie.fr/",
       "startDate": "2014-01-01",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
+      "endDate": "2024-12-30",
     }],
     "education": [{
       "institution": "IFAG",
@@ -66,29 +63,6 @@
       "studyType": "Bachelor",
       "startDate": "2011-01-01",
       "endDate": "2014-12-31",
-      "score": "",
-      "courses": [
-        ""
-      ]
-    }],
-    "awards": [{
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }],
-    "certificates": [{
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": ""
-    }],
-    "publications": [{
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
     }],
     "skills": [{
       "name": "Frontend",
@@ -120,24 +94,32 @@
 
     }],
     "interests": [{
-      "name": "",
+      "name": "Nouvelles technologies",
       "keywords": [
-        "",
-        ""
+        "IA",
+        "Energie"
       ]
-    }],
+    },
+    {
+        "name": "W40K",
+        "keywords": [
+          "#FortheEmperor",
+          "#Garvielwasright",
+          "Magnusdidnothingwrong"
+        ]
+      }],
     "references": [{
-      "name": "",
-      "reference": ""
-    }],
+      "name": "Vivian Sarazin",
+      "reference": "Digital Village"
+    },
+    {
+        "name": "Paul Moulas",
+        "reference": "Humans Connexion"
+      }],
     "projects": [{
-      "name": "",
-      "startDate": "",
-      "endDate": "",
-      "description": "",
-      "highlights": [
-        ""
-      ],
-      "url": ""
+      "name": "Fermaquatic",
+      "startDate": "2019-12-20",
+      "endDate": "2024-12-30",
+      "url": "https://www.facebook.com/fermaquatic/?locale=fr_FR"
     }]
   }
