@@ -1,0 +1,143 @@
+{
+    "basics": {
+      "name": "Olivier Senant",
+      "label": "Développeur full stack en devenir",
+      "image": "",
+      "email": "o.senant@gmail.com",
+      "phone": "06 26 48 44 51",
+      "url": "oliviersenant.fr",
+      "summary": "Professionnel polycompétent avec une expérience enrichissante dans la création et la gestion d'entreprises. Fort de mes compétences en logique et en intuition, je suis actuellement en reconversion vers le domaine de l'informatique. Motivé par un désir d'apprendre et de m'adapter, je recherche une formation en développement, suivie d'opportunités de stage ou d'emploi, afin d'acquérir les compétences nécessaires pour exceller dans ce secteur dynamique.",
+      "location": {
+        "address": "4 route de Fourquevaux",
+        "postalCode": "31450",
+        "city": "Belberaud",
+        "countryCode": "FR",
+        "region": "Occitanie"
+      },
+      "profiles": [{
+        "network": "Linkedin",
+        "username": "Olivier Senant",
+        "url": "https://www.linkedin.com/in/olivier-senant-a9549b41/"
+      }]
+    },
+    "work": [{
+      "name": "Fermaquatic",
+      "position": "Associé gérant",
+      "url": "https://www.facebook.com/fermaquatic/?locale=fr_FR",
+      "startDate": "2019-12-20",
+      "endDate": "2024-12-30",
+      "summary": "",
+      "highlights": [
+        "Réaliser un business plan, une analyse du marché, une stratégie marketing, un plan de communication.",
+        "Lever des fonds (emprunts bancaires, subventions, crowdfunding).",
+        "Créer et administrer un site web responsive (Wordpress).",
+        "Réaliser un plan de production, cultiver un hectare en légumes diversifiés.",
+      ]
+    },
+    {
+        "name": "Humans Connexion",
+        "position": "Chef de projet web junior",
+        "url": "https://www.humansconnexion.com/",
+        "startDate": "2011-09-07",
+        "endDate": "2014-12-30",
+        "summary": "",
+        "highlights": [
+          "Gérer un projet (retroplanning, relation client, livrable)",
+          "Former des équipes à l’utilisation d’outils digitaux",
+          "Animer une communauté",
+          "Créer un site Wordpress",
+        ]
+      }],
+    "volunteer": [{
+      "organization": "Association toulousaine d'aquaponie",
+      "position": "Cofondateur et membre du CA",
+      "url": "https://www.association-toulousaine-aquaponie.fr/",
+      "startDate": "2014-01-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }],
+    "education": [{
+      "institution": "IFAG",
+      "url": "https://www.ifag.com/",
+      "area": "Management",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    }],
+    "awards": [{
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }],
+    "certificates": [{
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }],
+    "publications": [{
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }],
+    "skills": [{
+      "name": "Frontend",
+      "level": "Junior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },{
+        "name": "Intégration",
+        "level": "Junior",
+        "keywords": [
+          "Wordpress",
+          "Bootstrap",
+          "Wix"
+        ]
+      }
+    ,{
+        "name": "Gestion de projet",
+        "level": "Junior"
+    }],
+    "languages": [{
+      "language": "Français",
+      "fluency": "Maternelle"
+    },{
+        "language": "Anglais",
+        "fluency": "Toeic: 855"
+
+    }],
+    "interests": [{
+      "name": "",
+      "keywords": [
+        "",
+        ""
+      ]
+    }],
+    "references": [{
+      "name": "",
+      "reference": ""
+    }],
+    "projects": [{
+      "name": "",
+      "startDate": "",
+      "endDate": "",
+      "description": "",
+      "highlights": [
+        ""
+      ],
+      "url": ""
+    }]
+  }
